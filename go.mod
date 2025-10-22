@@ -1,6 +1,6 @@
 module github.com/bangzzzz/hertz_health
 
-go 1.23.6
+go 1.20
 
 require github.com/cloudwego/hertz v0.10.3
 
